@@ -10,7 +10,7 @@ The linux Vim text editor, short for "Vi improved," is a powerful and versatile 
 ``` bash
 vim exercise.txt
 ```
-The command above created and opened the exercise.txt file even when it does not exist. Then it opens the file up so that i can start writing into it. it is just like opening up Notepad file on Windows.
+The command above created and opened the exercise.txt file even when it does not exist. Then it opens the file up so that i can start writing into it. It is just like opening up Notepad file on Windows.
 
 ![vim editor](assets/vim.png)
 
